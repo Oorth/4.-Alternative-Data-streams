@@ -1,3 +1,6 @@
 soo here put things in alternate data streams
 
-to put things in 
+to put things in alternate data streams->
+
+    lets put payload.txt
+        type "C:\malware\4. Alternate Data Streams\payloads\payload.txt" > 911.jpeg:datastream1
